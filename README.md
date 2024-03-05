@@ -1,6 +1,6 @@
 # Regional Sales-Analysis-Report
 
-![](Meriskill_HR_image.jpg) 
+![](US_Regional_map.webp) 
 
 This sales analysis report in Power BI outlines the status of sales activities within the regions of United States. It shows the trends in sales over time and also analyzes the various stages of the sales funnel and sales teams. They provide a snapshot of the region's workouts at a particular moment, assessing the situation, making the best decisions, and determining the type of behavior to perform.
 
@@ -50,5 +50,5 @@ The report comprises of three pages and you can interact with the report [here](
 ![](R_US_3.png)
 
 
-![](Thanks_image.jpg)
+![](Thankyou_Image.jpg)
 
